@@ -10,4 +10,4 @@ Se debe ingresar utilizando el correo "john@mail.com" y la contraseña "Changeme
 
 ![image](https://github.com/user-attachments/assets/91e3310d-e72c-468a-9e33-6038d458fcb7)
 
-Cualquier cosa profe, solo necesitamos 2, ayudenos por favor 
+Cualquier cosa profe, solo necesitamos 2.0, ayudenos por favor 
